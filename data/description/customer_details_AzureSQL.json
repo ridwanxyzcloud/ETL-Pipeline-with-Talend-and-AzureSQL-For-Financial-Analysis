@@ -1,0 +1,20 @@
+[
+    {
+      "Customer_ID": "C001",
+      "Customer_Name": "John Doe",
+      "Email_Address": "john.doe@example.com",
+      "Phone_Number": "123-456-7890",
+      "Account_Number": "A001",
+      "Account_Balance": 5000.00
+    },
+    {
+      "Customer_ID": "C002",
+      "Customer_Name": "Jane Smith",
+      "Email_Address": "jane.smith@example.com",
+      "Phone_Number": "098-765-4321",
+      "Account_Number": "A002",
+      "Account_Balance": 3000.00
+    }
+  ]
+  
+  

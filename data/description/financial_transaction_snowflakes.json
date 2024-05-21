@@ -1,0 +1,23 @@
+[
+    {
+      "Transaction_ID": "T001",
+      "Customer_ID": "C001",
+      "Transaction_Date": "2023-05-20T14:00:00Z",
+      "Transaction_Type": "deposit",
+      "Amount": 1000.00,
+      "Transaction_Status": "completed",
+      "Transaction_Location": "Branch A",
+      "Currency": "USD"
+    },
+    {
+      "Transaction_ID": "T002",
+      "Customer_ID": "C002",
+      "Transaction_Date": "2023-05-21T10:30:00Z",
+      "Transaction_Type": "withdrawal",
+      "Amount": 500.00,
+      "Transaction_Status": "completed",
+      "Transaction_Location": "ATM B",
+      "Currency": "EUR"
+    }
+  ]
+  
